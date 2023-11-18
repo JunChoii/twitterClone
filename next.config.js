@@ -16,7 +16,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "sams-test-bucket-1.s3.ca-central-1.amazonaws.com",
+        hostname: "twatter-finalizing-jun.s3.ca-central-1.amazonaws.com",
       },
     ],
   },
